@@ -1,0 +1,37 @@
+# ========== Unity ==========
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Uu]serSettings/
+[Ww]ebGLBuilds/
+[Oo]ut/
+
+# ========== Visual Studio / Rider ==========
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.booproj
+
+# ========== OS Generated ==========
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ========== Unity Cloud / Plastic SCM ==========
+.plastic/
+ignore.conf
+
+# ========== Crash Reports ==========
+sysinfo.txt
+
+# ========== Generated Assets ==========
+GeneratedAssets/
